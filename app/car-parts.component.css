@@ -1,0 +1,11 @@
+.description {
+    color: #444;
+    font-size: small;
+}
+.price {
+    font-weight:bold
+}
+
+.featured {
+    background: #57595D;
+}
